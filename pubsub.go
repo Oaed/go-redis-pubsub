@@ -2,6 +2,7 @@ package pubsub
 
 import (
 	"encoding/json"
+
 	"gopkg.in/redis.v2"
 )
 

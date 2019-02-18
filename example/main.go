@@ -2,9 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/dabfleming/go-redis-pubsub-example/driver/pubsub"
-	"gopkg.in/redis.v2"
 	"log"
+	pubsub "https://github.com/Oaed/go-redis-pubsub"
 	"time"
 )
 
